@@ -2,6 +2,18 @@
 
 - 😀 **A mystical web application** that reveals wisdom from the ancient "Book of Fate" with elegant animations and a sleek purple-themed design.
 
+## 🖼️ 截图
+
+> 📸 ![](https://github.com/user-attachments/assets/7fdf4514-4fd1-427b-a493-949befbd91d4)
+
+---
+
+> 📸 ![](https://github.com/user-attachments/assets/601d991e-1e29-42e9-9bf5-2a39a52cf854)
+
+---
+
+> 📸 ![](https://github.com/user-attachments/assets/ecf189d9-a21d-42e5-bb8a-bc67b02f6b53)
+
 ## Features
 
 - 🔮 **Mystical Wisdom**: Receive profound insights from the Book of Fate
@@ -76,3 +88,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ **Star this repository if you find the wisdom enlightening!**
 
 🚀 **Enjoy your mystical journey through the Book of Fate!**
+
