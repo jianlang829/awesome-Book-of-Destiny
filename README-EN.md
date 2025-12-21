@@ -4,7 +4,7 @@
   <img src="/_image/logo.png" alt="awesome-Book-of-Destiny" width="80%">
 </a>
 
-🚀  <strong>我想知道我的命运 -- 最多30秒</strong>
+  <strong>🚀 I want to know my fate -- Within 30 seconds</strong>
 
 <a href="https://trendshift.io/repositories/14726" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14726" alt="jianlang829%2Fawesome-Book-of-Destiny | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
@@ -14,13 +14,15 @@
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat-square)](LICENSE)
 [![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](https://github.com/jianlang829/awesome-Book-of-Destiny)
 
-**中文** | **[English](README-EN.md)**
+
 
 
 </div>
 
 
-## 🖼️ 截图
+
+
+## 🖼️ Screenshots
 
 > 📸 ![](https://github.com/user-attachments/assets/7fdf4514-4fd1-427b-a493-949befbd91d4)
 
@@ -31,12 +33,12 @@
 > 📸 ![](https://github.com/user-attachments/assets/ecf189d9-a21d-42e5-bb8a-bc67b02f6b53)
 
 
-## 快速开始
+## 🚀 Quick Start
 
-> [《命运之书》](https://jianlang829.github.io/Book-of-Destiny/)
+> [awesome-Book-of-Destiny](https://jianlang829.github.io/Book-of-Destiny/)
 
 
-⭐ **如果你觉得这个仓库有启发性，请给它加星！**
+⭐ **Star this repository if you find the wisdom enlightening!**
 
-🚀 **享受你在《命运之书》中的神秘旅程！**
+🚀 **Enjoy your mystical journey through the awesome-Book-of-Destiny!**
 
