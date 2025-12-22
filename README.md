@@ -33,7 +33,7 @@
 
 ## 快速开始
 
-> [《命运之书》](https://jianlang829.github.io/Book-of-Destiny/)
+> [《命运之书》](https://jianlang829.github.io/awesome-Book-of-Destiny/)
 
 
 ⭐ **如果你觉得这个仓库有启发性，请给它加星！**
