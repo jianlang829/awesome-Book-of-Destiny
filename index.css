@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 body {
@@ -15,6 +16,24 @@ body {
     font-family: 'Noto Serif SC', 'Microsoft YaHei', serif;
     background-image: radial-gradient(#9C27B015 1px, transparent 1px);
     background-size: 30px 30px;
+    overflow: hidden;
+}
+
+.cursor {
+    position: absolute;
+    top: 0;
+    left: 20px;
+    pointer-events: none;
+}
+
+.cursor .text {
+    position: absolute;
+    font-size: 1.5em;
+    color: #8400ff;
+    text-shadow: 0 0 15px #631bb5,
+        0 0 50px #a448dd;
+    text-transform: uppercase;
+    transform: translate(-50%, -50%);
 }
 
 .container {
