@@ -13,6 +13,36 @@
 </head>
 
 <body>
+    <div class="cursor"></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"
+        integrity="sha512-7eHRwcbYkK4d9g/6tD/mhkf++eoTHwpNM9woBxtPUBWm67zeAfFC+HrdoE2GanKeocly/VxeLvIqwvCdk7qScg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            let cursor = document.querySelector('.cursor');
+            let textContent = "命运之书";
+
+            for (let i = 0; i < textContent.length; i++) {
+                let span = document.createElement('span');
+                span.classList.add('text');
+                span.textContent = textContent[i];
+                span.style.setProperty('--i', i + 1);
+                span.style.left = i * 1.5 + 'em';
+                span.style.filter = `hue-rotate(${i * 10}deg)`
+                cursor.appendChild(span);
+            }
+
+            document.addEventListener("mousemove", e => {
+                gsap.to(".text", {
+                    x: e.clientX,
+                    y: e.clientY,
+                    stagger: 0.03
+                })
+            })
+
+        })
+    </script>
+
     <div class="container" role="main">
         <div class="book-spine"></div>
         <h1 aria-label="命运之书标题">🔮 命运之书</h1>
